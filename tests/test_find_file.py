@@ -2,7 +2,6 @@ import pytest
 import timeit
 
 from wb_project import find_file
-import wb_project
 
 
 class TestExpectedLinux:

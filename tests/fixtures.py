@@ -2,7 +2,6 @@ import re
 import pytest
 import os
 import platform
-import wb_project
 
 from pathlib import Path
 

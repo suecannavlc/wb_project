@@ -107,4 +107,4 @@ class TestNonFunctional:
                                number=1000,
                                setup='from wb_project import '
                                      'find_repeated_number')
-        assert result < 6.0, "Execution performance has decreased"
+        assert result < 7.0, "Execution performance has decreased"
